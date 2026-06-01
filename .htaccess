@@ -1,0 +1,11 @@
+# C:\xampp\htdocs\gestion-evenements\.htaccess
+
+RewriteEngine On
+RewriteBase /gestion-evenements/
+
+# Ne pas réécrire les fichiers réels, répertoires ou liens symboliques
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Réécrire le reste vers index.php
+RewriteRule ^(.*)$ index.php [QSA,L]

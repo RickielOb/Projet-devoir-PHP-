@@ -1,0 +1,20 @@
+=== SIMULATION ENVOI EMAIL ===
+Date: 24-05-2026 16:03:03
+Destinataire: obiangrickiel7@gmail.com
+Objet: Confirmation de votre reservation - Showcase Show Live au Port-Gentil
+-------------------------------------------------------
+Bonjour Michel OBIANG,
+
+Nous vous confirmons l'enregistrement de votre reservation pour l'evenement :
+>> Showcase Show Live au Port-Gentil
+Date : Dimanche 28 Juin 2026 à 21h00
+Lieu : Complexe Sportif de Port-Gentil
+Nombre de places : 2
+Montant regle : 10 000 FCFA
+
+Vous pouvez telecharger vos billets numeriques et codes QR directement sur le lien suivant :
+http://localhost/gestion-evenements/index.php?page=reservations&action=confirmation&id=5
+
+Merci de votre confiance,
+L'equipe EventGabon
+=======================================================

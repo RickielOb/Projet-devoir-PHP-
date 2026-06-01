@@ -1,0 +1,20 @@
+=== SIMULATION ENVOI EMAIL ===
+Date: 24-05-2026 16:15:52
+Destinataire: obiangrickiel7@gmail.com
+Objet: Confirmation de votre reservation - Concert de Ntcham L'oiseau Rare
+-------------------------------------------------------
+Bonjour Obiang Michel,
+
+Nous vous confirmons l'enregistrement de votre reservation pour l'evenement :
+>> Concert de Ntcham L'oiseau Rare
+Date : Vendredi 30 Octobre 2026 à 10h30
+Lieu : Libreville
+Nombre de places : 8
+Montant regle : 80 000 FCFA
+
+Vous pouvez telecharger vos billets numeriques et codes QR directement sur le lien suivant :
+http://localhost/gestion-evenements/index.php?page=reservations&action=confirmation&id=6
+
+Merci de votre confiance,
+L'equipe EventGabon
+=======================================================
